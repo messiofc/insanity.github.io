@@ -1,0 +1,101 @@
+body {
+    background-color:rgb(29, 26, 26);
+    text-align: center;
+}
+
+h1 {
+    padding: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 40px;
+    margin: auto;
+    font-size: 40px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    border-radius: 18px;
+    line-height: 0ch;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.separador {
+    border: 1px solid white;
+}
+
+
+nav {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    text-align: center;
+    font: bold 20px verdana;
+    display: inline-block;
+}
+
+.navegacionblanco {
+    color: white;
+}
+
+.navegaciongris {
+    color: gray;
+}
+
+.link {
+    font-family:'Times New Roman', Times, serif;
+    font-weight:lighter;
+    font-size: 23px;
+    color: aquamarine ;
+}
+.insanity {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.letrero {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.entrar {
+text-align: center;
+margin: auto;
+margin-top: 50px;
+font-size: 40px;
+background-color: #128C7E;
+border-radius: 600px;
+line-height: 90px;
+width: 230px;
+border-width: 0px;
+margin-bottom: 30px;
+}
+
+.separador2 {
+    border: 1px solid white;
+}
+    
+.contenido {
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 40px;
+    background-color:coral;
+    color: beige;
+    border-radius: 600px;
+    line-height: 90px;
+    width: 230px;
+    border-width: 0px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
